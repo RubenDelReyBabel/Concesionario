@@ -1,0 +1,3 @@
+Lo que me ha dado tiempo a implementar han sido los repositorios de las entidades, y los servicios más importantes de la aplicación. Quedarían por implementar los servicios para dar de alta coches, clientes, vendedores y reparadores, para que luego estos puedan ser utilizados para dar de alta reparaciones, ventas, pruebas con los coches y las facturas.
+
+Para que los tests, las reparaciones y las ventas puedan ser añadidas todas a una factura, he creado una interfaz común la cual tiene el nombre del artículo, y el precio del mismo.
